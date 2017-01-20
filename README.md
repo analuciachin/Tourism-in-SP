@@ -1,3 +1,3 @@
 # Tourism-in-SP
-Responsive design using media queries. 
+Practiced responsive design using media queries. 
 Worked on HTML and CSS.
